@@ -13,7 +13,7 @@ In this lab, you will learn to:
 - Add multiple sprites to your project.
 - Make different sprite kinds.
 
-![Overview](https://github.com/rymc88/Lab-1-2/blob/master/img/overview.png?raw=true)
+![Overview](https://raw.githubusercontent.com/rymc88/unit-1-skillmap-new/master/img/overview-1-2.png)
 
 ## Hero Sprite
 
