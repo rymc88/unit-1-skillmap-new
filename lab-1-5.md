@@ -5,7 +5,7 @@
 You will be adding additional enemy features and a bonus items
 to the game from the previous lab.
 
-![Overview](https://github.com/rymc88/Lab-1-5/blob/master/img/overview.gif?raw=true)
+![Overview](https://raw.githubusercontent.com/rymc88/unit-1-skillmap-new/master/img/overview-1-5.gif)
 
 In this lab, you will learn to:
 - Detect collisions between different sprites.
@@ -251,7 +251,7 @@ let enemySprite: Sprite = null
 
 Every time the Enemy eats Food or Extra Life, the player's score should go down!
 
-![Enemy Overlaps Food & Life](https://github.com/rymc88/Lab-1-5/blob/master/img/enemy-overlaps-food-life.gif?raw=true)
+![Enemy Overlaps Food & Life](https://raw.githubusercontent.com/rymc88/unit-1-skillmap-new/master/img/enemy-overlaps-food-life.gif)
 
 ## Let the Enemy Eat
 

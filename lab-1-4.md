@@ -5,7 +5,7 @@
 Today you will write a game where the player must eat all the food which
 appears, while avoiding an enemy that bounces around the screen!
 
-![Overview](https://github.com/rymc88/Lab-1-4/blob/master/img/overview.gif?raw=true)
+![Overview](https://raw.githubusercontent.com/rymc88/unit-1-skillmap-new/master/img/overview-1-4.gif)
 
 In this lab, you will learn to:
 
@@ -216,7 +216,7 @@ enemySprite.setBounceOnWall(true)
 When two sprites are drawn so that one overlaps the other, it is called a
 **sprites collision**.
 
-![Sprite Collision](https://github.com/rymc88/Lab-1-4/blob/master/img/sprite-collisions.gif?raw=true)
+![Sprite Collision](https://raw.githubusercontent.com/rymc88/unit-1-skillmap-new/master/img/sprite-collisions.gif)
 
 Sprites collisions are an important part of all games. Without them, nothing
 happens in a game.
@@ -240,7 +240,7 @@ space in the ``||sprites:set position||`` & ``||sprites:set velocity||`` block.
 **Step 3:** The ``||variables:otherSprite||`` (which is the ``||variables:enemySprite||``)
 moves to a new ``||math:random||`` position with a new ``||math:random||`` velocity.
 
-![Player Overlaps Enemy](https://github.com/rymc88/Lab-1-4/blob/master/img/player-overlaps-enemy.png?raw=true)
+![Player Overlaps Enemy](https://raw.githubusercontent.com/rymc88/unit-1-skillmap-new/master/img/player-overlaps-enemy.png)
 
 ## Player Overlaps Food
 
@@ -260,13 +260,13 @@ space in the ``||sprites:destroy||`` block.
 The ``||variables:otherSprite||`` (which is the ``||variables:foodSprite||``)
 will be destroyed when the Player collides with it.
 
-![Player Overlaps Food](https://github.com/rymc88/Lab-1-4/blob/master/img/player-overlaps-food.png?raw=true)
+![Player Overlaps Food](https://raw.githubusercontent.com/rymc88/unit-1-skillmap-new/master/img/player-overlaps-food.png)
 
 ## Part 3: Points & Lives @unplugged
 
 So far, your game has a player, an enemy, and some food to eat.
 
-![Overlaps Completed](https://github.com/rymc88/Lab-1-4/blob/master/img/overlaps-completed.gif?raw=true)
+![Overlaps Completed](https://raw.githubusercontent.com/rymc88/unit-1-skillmap-new/master/img/overlaps-completed.gif)
 
 Now let's add some scoring and lives.
 

@@ -12,7 +12,7 @@ In this lab, you will learn how to:
 - Make a sprite follow another sprite.
 - Make a sprite bounce off the edges of the screen.
 
-![Overview](https://github.com/rymc88/Lab-1-3/blob/master/img/overview.gif?raw=true)
+![Overview](https://raw.githubusercontent.com/rymc88/unit-1-skillmap-new/master/img/overview-1-3.gif)
 
 ## Hero Sprite Movement
 
@@ -54,7 +54,7 @@ controller.moveSprite(heroSprite)
 While the player can control the hero sprite, the player
 can also cause the sprite to leave the screen.
 
-![Sprite Stay](https://github.com/rymc88/Lab-1-3/blob/master/img/sprite-stay.gif?raw=true)
+![Sprite Stay](https://raw.githubusercontent.com/rymc88/unit-1-skillmap-new/master/img/sprite-stay.gif)
 
 This could be confusing to the player, so let's restrict the movement 
 of the hero sprite so that it stays on the screen.
@@ -94,7 +94,7 @@ heroSprite.setStayInScreen(true)
 Another way to move sprites around the screen is to 
 make one sprite follow another. 
 
-![Srpite Follow](https://github.com/rymc88/Lab-1-3/blob/master/img/sprite-follow.gif?raw=true)
+![Srpite Follow](https://raw.githubusercontent.com/rymc88/unit-1-skillmap-new/master/img/sprite-follow.gif)
 
 In our project, let's have the enemy chase the hero.
 
@@ -151,7 +151,7 @@ enemySprite.follow(heroSprite)
 
 ## Velocity @unplugged
 
-![Sprite Velocity](https://github.com/rymc88/Lab-1-3/blob/master/img/sprite-velocity.png?raw=true)
+![Sprite Velocity](https://raw.githubusercontent.com/rymc88/unit-1-skillmap-new/master/img/sprite-velocity.png)
 
 ## Sprite Velocity
 
@@ -434,7 +434,7 @@ bouncyBall.setStayInScreen(true)
 
 That's a little better, but the ball is not vey bouncy.
 
-![Not Bouncy Ball](https://github.com/rymc88/Lab-1-3/blob/master/img/no-bouce-ball.gif?raw=true)
+![Not Bouncy Ball](https://raw.githubusercontent.com/rymc88/unit-1-skillmap-new/master/img/no-bouce-ball.gif)
 
 Let's try something else.
 

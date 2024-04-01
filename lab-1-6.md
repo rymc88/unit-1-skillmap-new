@@ -5,7 +5,7 @@
 Before you can get started on your unit project, there are a few more things
 that sprites can do you should know about. You'll learn about them here.
 
-![Overview](https://github.com/rymc88/Lab-1-6/blob/master/img/overview.gif?raw=true)
+![Overview](https://raw.githubusercontent.com/rymc88/unit-1-skillmap-new/master/img/overview-1-6.gif)
 
 In this lab, you will learn to:
 - Display text and have sprites say things.

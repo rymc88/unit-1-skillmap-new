@@ -1,8 +1,8 @@
 # Unit-1
 * name: Unit 1
 * description: Work with the primary element in MakeCode Arcade: The Sprite
-* bannerUrl: https://github.com/rymc88/Unit-1-Skillmap/blob/master/img/banner.png?raw=true
-* backgroundUrl: https://github.com/rymc88/Unit-1-Skillmap/blob/master/img/skillmap-bg.gif?raw=true
+* bannerUrl: https://raw.githubusercontent.com/rymc88/unit-1-skillmap-new/master/img/banner.png
+* backgroundUrl: https://raw.githubusercontent.com/rymc88/unit-1-skillmap-new/master/img/skillmap-bg.gif
 * primarycolor: #D2D2D2
 * secondarycolor: #30E3D1
 * tertiarycolor: #191919
@@ -21,7 +21,7 @@
 * next: sprite-lab3
 
 * url: https://github.com/rymc88/unit-1-skillmap-new/lab-1-2
-* imageUrl: https://github.com/rymc88/Unit-1-Skillmap/blob/master/img/overview-1-2.png?raw=true
+* imageUrl: https://raw.githubusercontent.com/rymc88/unit-1-skillmap-new/master/img/overview-1-2.png
 
 ### sprite-lab3
 
@@ -30,7 +30,7 @@
 * description: Move hero sprite with the d-pad. Explain sprite velocity. Make sprites follow each other.
 
 * url: https://github.com/rymc88/unit-1-skillmap-new/lab-1-3
-* imageUrl: https://github.com/rymc88/Unit-1-Skillmap/blob/master/img/overview-1-3.gif?raw=true
+* imageUrl: https://raw.githubusercontent.com/rymc88/unit-1-skillmap-new/master/img/overview-1-3.gif
 
 ## Labs-4-6
 * name: Sprite Collisions & Extras
@@ -44,7 +44,7 @@
 * next: sprite-lab5
 
 * url: https://github.com/rymc88/unit-1-skillmap-new/lab-1-4
-* imageUrl: https://github.com/rymc88/Unit-1-Skillmap/blob/master/img/overview-1-4.gif?raw=true
+* imageUrl: https://raw.githubusercontent.com/rymc88/unit-1-skillmap-new/master/img/overview-1-4.gif
 
 ### sprite-lab5
 
@@ -54,7 +54,7 @@
 * next: sprite-lab6
 
 * url: https://github.com/rymc88/unit-1-skillmap-new/lab-1-5
-* imageUrl: https://github.com/rymc88/Unit-1-Skillmap/blob/master/img/overview-1-5.gif?raw=true
+* imageUrl: https://raw.githubusercontent.com/rymc88/unit-1-skillmap-new/master/img/overview-1-5.gif
 
 ### sprite-lab6
 
@@ -63,4 +63,4 @@
 * description: Displaying text on the screen or with sprite. Set and update a timer. 
 
 * url: https://github.com/rymc88/unit-1-skillmap-new/lab-1-6
-* imageUrl: https://github.com/rymc88/Unit-1-Skillmap/blob/master/img/overview-1-6.gif?raw=true
+* imageUrl: https://raw.githubusercontent.com/rymc88/unit-1-skillmap-new/master/img/overview-1-6.gif
