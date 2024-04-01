@@ -1,6 +1,6 @@
 {
     "name": "Unit-1-Skillmap-New",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "",
     "dependencies": {
         "device": "*"
