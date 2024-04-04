@@ -19,6 +19,7 @@
 * type: tutorial
 * description: Place sprites on the screen. Work with different kinds of sprites.
 * next: sprite-lab3
+* allowcodecarryover: true
 
 * url: https://github.com/rymc88/unit-1-skillmap-new/lab-1-2
 * imageUrl: https://raw.githubusercontent.com/rymc88/unit-1-skillmap-new/master/img/overview-1-2.png
@@ -28,6 +29,7 @@
 * name: Moving Sprites
 * type: tutorial
 * description: Move hero sprite with the d-pad. Explain sprite velocity. Make sprites follow each other.
+* allowcodecarryover: true
 
 * url: https://github.com/rymc88/unit-1-skillmap-new/lab-1-3
 * imageUrl: https://raw.githubusercontent.com/rymc88/unit-1-skillmap-new/master/img/overview-1-3.gif
@@ -42,6 +44,7 @@
 * type: tutorial
 * description: Use collisions event handlers. Use built-in variables for life and score. Randomize sprite placement.
 * next: sprite-lab5
+* allowcodecarryover: true
 
 * url: https://github.com/rymc88/unit-1-skillmap-new/lab-1-4
 * imageUrl: https://raw.githubusercontent.com/rymc88/unit-1-skillmap-new/master/img/overview-1-4.gif
@@ -51,6 +54,7 @@
 * name: Eat Some More!
 * type: tutorial
 * description: Detect collisions between different sprite kinds. Destroy sprites with effects. Set and update lives. 
+* allowcodecarryover: true
 * next: sprite-lab6
 
 * url: https://github.com/rymc88/unit-1-skillmap-new/lab-1-5
